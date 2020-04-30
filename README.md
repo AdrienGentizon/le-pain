@@ -1,6 +1,6 @@
 Auteur: Adrien GENTIZON
 Date de création: 30/04/2020
-Version: base-0.1
+Version: agar-0.1.1
 
 Une recette de pain:
 - rapide à faire
